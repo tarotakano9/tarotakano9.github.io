@@ -53,7 +53,7 @@ params:
     safari_pinned_tab: "Thinking_Face_Emoji_large.png"
 
   label:
-    text: "🏠 Home"
+    text: "Home"
     # icon: Thinking_Face_Emoji_large.png
     iconHeight: 35
 
