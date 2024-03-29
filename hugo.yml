@@ -24,7 +24,7 @@ params:
   keywords: [Blog, Portfolio, PaperMod]
   author: taro takano(t2.micro)
   # author: ["Me", "You"] # multiple authors
-  images: ["profile.jpg"]
+  images: ["profile.JPG"]
   DateFormat: "January 2, 2006"
   defaultTheme: auto # dark, light
   disableThemeToggle: false
