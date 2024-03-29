@@ -19,8 +19,8 @@ minify:
 
 params:
   #    env: production # to enable google analytics, opengraph, twitter-cards and schema.
-  title: okaponta
-  description: "Blog of okaponta, a software engineer."
+  title: t2.micro
+  description: "Portforio of t2.micro, a web engineer"
   keywords: [Blog, Portfolio, PaperMod]
   author: taro takano(t2.micro)
   # author: ["Me", "You"] # multiple authors
