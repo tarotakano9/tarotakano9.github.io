@@ -72,7 +72,7 @@ params:
 
   socialIcons:
     - name: twitter
-      url: "https://twitter.com/t2_micro_dmps"
+      url: ""
     - name: github
       url: "https://github.com/tarotakano9"
 
